@@ -2,12 +2,15 @@
 
 1.**SIMULATION AND IMPLEMENTATION OF LOGIC GATES,ADDERS AND SUBTRACTOR**
 **AIM:**
+
 To simulate and synthesis Logic Gates,Adders and Subtractor using Vivado 2023.2.
 
 **APPARATUS REQUIRED:**
+
 VIVADO 2023.2
 
 **PROCEDURE:**
+
 STEP:1 Start the Vivado, Select and Name the New project.<br>
 STEP:2 Select the device family, device, package and speed. <br>
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type.<br>
